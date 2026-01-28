@@ -12,10 +12,10 @@ export default function App() {
           <div className="text-[11px] tracking-[0.35em] text-white/60">
             SITE UNDER CONSTRUCTION
           </div>
-          <h1 className="mt-5 text-4xl sm:text-6xl font-semibold tracking-[0.35em]">
+          <h1 className="mt-5 text-4xl sm:text-6xl font-semibold tracking-[0.35em] text-primary">
             COMING SOON
           </h1>
-          <div className="mt-10 mx-auto h-1.5 w-full max-w-md rounded-full bg-white/10">
+          <div className="mt-10 mx-auto h-1.5 w-full max-w-md rounded-full bg-black-brand">
             <div className="h-1.5 w-[62%] rounded-full bg-gradient-to-r from-cyan-400 via-violet-500 to-pink-500" />
           </div>
           <div className="mt-3 text-xs text-white/60">62%</div>
